@@ -1,1 +1,1 @@
-# resume
+# rsschool-codejam1-cv
