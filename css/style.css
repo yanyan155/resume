@@ -95,3 +95,16 @@ p, ol li, label {
   padding-bottom: 0;
   border-bottom: 0px dashed black;
 }
+.employment {
+  padding: 5px 0;
+  border-bottom: 1px dashed black;
+}
+.employment:first-child {
+  padding-top: 0;
+}
+.employment:last-child {
+  padding-bottom: 0;
+  border-bottom: 0px dashed black;
+}
+
+
