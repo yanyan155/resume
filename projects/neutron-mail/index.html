@@ -6,9 +6,11 @@
     <link rel="stylesheet" href="css/slick.css" />
     <link rel="stylesheet" href="css/slick-theme.css" />
     <link rel="stylesheet" href="css/font-awesome.css" />
+    <link rel="stylesheet" href="css/hamburgers.css">
     <link rel="stylesheet" href="css/animate.css" />
     <link rel="stylesheet" href="css/stylename.css" />
     <link rel="stylesheet" href="css/font-awesome.css" />
+    <link rel="stylesheet" href="css/simplebar.css" />
     <link href="css/style.css" rel="stylesheet" /> 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
@@ -18,20 +20,27 @@
         <div class="langs-wrap wow fadeInDown">
           <h1>neutron<span>Mail</span></h1>
           <ul class="langs">
-            <li class="active">English</li>
-            <li>French</li>
-            <li>Italian</li>
-            <li>Polish</li>
+            <li class="active"><span>English</span></li>
+            <li><span>French</span></li>
+            <li><span>Italian</span></li>
+            <li><span>Polish</span></li>
           </ul>
         </div>
-        <nav class="wow fadeInDown">
-          <a href="#" target="_blank" title="link to about section">About</a>
-          <a href="#" target="_blank" title="link to security section">Security</a>
-          <a href="#" target="_blank" title="link to blog section">Blog</a>
-          <a href="#" target="_blank" title="link to careers section">Careers</a>
-          <a href="#" target="_blank" title="link to support section">Support</a>
-          <a href="#" target="_blank" title="link to donate section">Donate</a>
-        </nav>
+        <div class="nav-wrapper wow fadeInDown">
+          <button class="hamburger hamburger--spin" type="button">
+            <span class="hamburger-box">
+              <span class="hamburger-inner"></span>
+            </span>
+          </button>
+          <nav>
+            <a href="#" target="_blank" title="link to about section"><span>About</span></a>
+            <a href="#" target="_blank" title="link to security section"><span>Security</span></a>
+            <a href="#" target="_blank" title="link to blog section"><span>Blog</span></a>
+            <a href="#" target="_blank" title="link to careers section"><span>Careers</span></a>
+            <a href="#" target="_blank" title="link to support section"><span>Support</span></a>
+            <a href="#" target="_blank" title="link to donate section"><span>Donate</span></a>
+          </nav>
+        </div>
         <div class="authorization wow fadeInDown">
           <button class="button-undecorate">
             <i class="fas fa-sign-in-alt"></i>Log in
@@ -109,16 +118,17 @@
             <li data-quote="2"></li>
             <li data-quote="3"></li>
           </ul>
-          <div class="quotes-wrap wow fadeInLeft">
-            <div class="quote-block active">
-              <p>A new email service being developed by a group from MIT and CERN promises to bring secure, encrypted email to the masses and keep sensitive information away from prying eyes.</p>
+          <div class="quotes-wrap wow fadeInLeft" data-simplebar>
+            <div class="quote-block active " >
+              <p>A new email service being developed by a group from MIT and CERN promises to bring secure, encrypted email to the masses and keep sensitive information away from prying eyes. <br />
+              A new email service being developed by a group from MIT and CERN promises to bring secure, encrypted email to the masses and keep sensitive information away from prying eyes.</p>
               <p class="quote-author">&mdash; Boston Herald</p>
             </div>
-            <div class="quote-block">
+            <div class="quote-block" >
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum minima dolorem veniam, ducimus sequi at nihil quia blanditiis aperiam provident, autem perspiciatis id dolor aliquid saepe quisquam.</p>
               <p class="quote-author">&mdash; Boston Herald</p>
             </div>
-            <div class="quote-block">
+            <div class="quote-block" >
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum minima dolorem veniam, ducimus sequi at nihil quia blanditiis aperiam provident, autem perspiciatis id dolor aliquid saepe quisquam. Deserunt, expedita, error?</p>
               <p class="quote-author">&mdash; Boston Herald</p>
             </div>
@@ -150,7 +160,7 @@
           <i class="fas fa-cloud-upload-alt"></i>
           Upgrade to Paid Plan
         </button>
-        <button class="button-decorate currency-button2 wow fadeInUp">
+        <button class="button-undecorate currency-button2 wow fadeInUp">
           <i class="fas fa-dollar-sign"></i>&nbsp;
           Donate
         </button>
@@ -266,6 +276,7 @@
     <script src="js/jQuery-migrate.js"></script>
     <script src="js/WOW.js"></script>
     <script src="js/slick.min.js"></script>
+    <script src="js/simplebar.js"></script>
     <script src="js/scripts.js"></script>
   </body>
 </html>
