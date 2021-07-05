@@ -6,7 +6,7 @@
 * vk: [Янис Мачкин](https://vk.com/id15973765)
 
 ## Summary
-Hi! My name is Yan and I search for js-developer job. I like coding and learn something new and then apply knowledge in practice. It is very important to work side-by-side with more qualify staff, that is why i want to work on commertial projects with a team of developers, and that is main purpose to continue learning, try harder and show my best.
+Hi! My name is Yan and I search for js-developer job. I obsessed with coding, learn something new about it daily and then successful apply the new knowledge on practice.
 
 ## Skills
 Mark up PSD templates. HTML5, CSS3. Client side js. Basic node.js. Basic sails.js. Git.
