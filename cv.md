@@ -1,12 +1,12 @@
-# Resume for junior js developer position.
+# Resume js developer position.
 ## Common information.
 * Full Name: Machkin Yanis Yanovich
 * Contacts: mobile: [+37529 859 30 66](tel:+375298593066)
 * skype: [yanis.machkin](skype:yanis.machkin?chat)
-* vk: [Янис Мачкин](https://vk.com/id15973765)
+* email: [jm@tut.by](mailto:jm@tut.by)
 
 ## Summary
-Hi! My name is Yan and I search for js-developer job. I obsessed with coding, learn something new about it daily and then successful apply the new knowledge on practice.
+Hi! My name is Yan and I seek for js-developer job. I work as a programmer for 2 years, so I am interesting in find some thing new and create some great features.
 
 ## Skills
 Mark up PSD templates. HTML5, CSS3. Client side js. Basic node.js. Basic sails.js. Git.
@@ -28,6 +28,14 @@ This is html/css project from [Rolling Scopes course](https://rs.school/js/index
 * [Recipes](https://github.com/yanyan155/resume-projects/tree/recipes)
 This is node.js project from [CourseHunters](https://coursehunters.net/course/udemy-complete-javascript-course), which has MVC arhitecture, webpack, babel, classes, asyncronous requests.
 
+* [Listboxer](https://docs.google.com/spreadsheets/d/1mbDvuPK-VPiWDAs0mVpDw8te91imFMaE/edit?usp=sharing&ouid=116638711936586478796&rtpof=true&sd=true)
+One of the most common basic program to  create bug reports and get practical skills in testing.
+
+* [Path-walker](https://github.com/yanyan155/path-walker)
+The node.js, react project - basic implementation of Window's File Explorer for Browser. Team Lead was a mentor. 
+Tech: Express.js, webpack, babel, react, redux, eslint, sockets
+
+
 ## Educations
 ### University
 Educational establishment: [Educational establishment:](http://www.bntu.by/)
@@ -45,8 +53,9 @@ Educational establishment: [Educational establishment:](http://www.bntu.by/)
 * [Rolling Scopes course](https://rs.school/js/index.html)
 
 ### Previous Employment
-* September 2015 - present time: artist on studio children selebration "КАРАВАЙ". My duties: selebration management and holding for children and adults
+* September 2019 - present time: front end developer at EPAM Systems
+* September 2015 - august 2019: artist on studio children selebration "КАРАВАЙ". My duties: selebration management and holding for children and adults
 * September 2013 - September 2015 engineer-designer on building company "МАПИД". My duties: desing nodes for water supply and water disposal
 
 ## English level
-A2, continue selfeducation on [lingualeo](https://lingualeo.com)
+B1, continue selfeducation on [lingualeo](https://lingualeo.com)
