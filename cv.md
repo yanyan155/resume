@@ -1,10 +1,5 @@
 # Resume for js developer position.
 
-|  | Common information |
-| --------- | --------- |
-| ![portrait](./img/potrait.jpg) | <ul><li>Machkin Yanis</li><li>front end developer at EPAM</li><li>mobile: [+37529 859 30 66](tel:+375298593066)</li><li>email: [jm@tut.by](mailto:jm@tut.by)</li><li>skype: [yanis.machkin](skype:yanis.machkin?chat)</li><li>location: Minsk, Belarus</li></ul> |
-
-
 <table>
   <tbody>
     <tr>
@@ -12,15 +7,15 @@
       <th>Common information</th>
     </tr>
     <tr>
-      <td>![portrait](./img/potrait.jpg)</td>
+      <td><img src="./img/potrait.jpg" alt="portrait" /></td>
       <td>
         <ul>
           <li>Machkin Yanis</li>
           <li>front end developer at EPAM</li>
-          <li>mobile: [+37529 859 30 66](tel:+375298593066)</li>
-          <li>email: [jm@tut.by](mailto:jm@tut.by)</li>
-          <li>skype: [yanis.machkin](skype:yanis.machkin?chat)</li>
-          <li>location: Minsk, Belarus</li></ul>
+          <li>mobile: <a href="tel:+375298593066" target="_blank">+37529 859 30 66</a></li>
+          <li>email: <a href="mailto:jm@tut.by" target="_blank" >jm@tut.by</a></li>
+          <li>skype: <a href="skype:yanis.machkin?chat" target="_blank" >yanis.machkin</a></li>
+          <li>location: <a href="https://www.google.com/maps/place/Minsk/@53.8843138,27.3131922,10z/data=!3m1!4b1!4m5!3m4!1s0x46dbcfd35b1e6ad3:0xb61b853ddb570d9!8m2!3d53.9006011!4d27.558972">Minsk, Belarus</a></li></ul>
         </td>
     </tr>
   </tbody>
