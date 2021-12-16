@@ -4,6 +4,28 @@
 | --------- | --------- |
 | ![portrait](./img/potrait.jpg) | <ul><li>Machkin Yanis</li><li>front end developer at EPAM</li><li>mobile: [+37529 859 30 66](tel:+375298593066)</li><li>email: [jm@tut.by](mailto:jm@tut.by)</li><li>skype: [yanis.machkin](skype:yanis.machkin?chat)</li><li>location: Minsk, Belarus</li></ul> |
 
+
+<table>
+  <tbody>
+    <tr>
+      <th></th>
+      <th>Common information</th>
+    </tr>
+    <tr>
+      <td>![portrait](./img/potrait.jpg)</td>
+      <td>
+        <ul>
+          <li>Machkin Yanis</li>
+          <li>front end developer at EPAM</li>
+          <li>mobile: [+37529 859 30 66](tel:+375298593066)</li>
+          <li>email: [jm@tut.by](mailto:jm@tut.by)</li>
+          <li>skype: [yanis.machkin](skype:yanis.machkin?chat)</li>
+          <li>location: Minsk, Belarus</li></ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Summary
 2+ year works in  transcontinental projects with headquarters in UK and USA. Work with colleagues from different regions.
 Like to learn new things and investigate deeper in things even beyond my responsibilities. Supported and taught student from testing courses so as a result she got an offer.
