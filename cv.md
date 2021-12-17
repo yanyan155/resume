@@ -1,4 +1,13 @@
 # Resume for js developer position.
+<style>
+  h1 {
+    display: none;
+  }
+  
+  h1[id] {
+    display: block;
+  }
+</style>
 
 <table>
   <tbody>
@@ -22,7 +31,7 @@
 </table>
 
 ## Summary
-2+ year works in  transcontinental projects with headquarters in UK and USA. Work with colleagues from different regions.
+2+ year work in  transcontinental projects with headquarters in UK and USA. Work with colleagues from different regions.
 Like to learn new things and investigate deeper in things even beyond my responsibilities. Supported and taught student from testing courses so as a result she got an offer.
 
 ## Skills
