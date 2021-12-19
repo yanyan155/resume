@@ -30,8 +30,9 @@
 </table>
 
 ## Summary
-I have 2+ years of commercial experience working on projects in a transcontinental company with headquarters in UK and USA. I worked with colleagues from different regions. 
-I like to learn new things and engage in things  beyond my responsibilities. I guided and couched several friends, graduated from software testing and js classes to help them get a full-time job offer.
+2+ years of commercial experience working on projects in a transcontinental company with headquarters in UK and USA.
+Was involved in the full development process that includes designing UI solutions, implementing features with constant communication with AEM, backend developers and testers
+Strong knowledge of js, html, css.
 
 ## Skills
 - HTML5, CSS3.
@@ -47,9 +48,9 @@ I like to learn new things and engage in things  beyond my responsibilities. I g
   EPAM Systems<br />
   September 2019 - present time
 
-  I was responsible for the migration of the whole front end part to a different endpoint. 
-  I was also involved in the full development process that includes designing UI solutions, implementing features with constant communication with AEM, backend developers and testers.
-  I Wrote tests in Jest, Jasmine<br />
+  Responsible for the migration of the whole front end part to a different endpoint. 
+  Find solutions between limitations of tech part and requirement of UI design.
+  Create accessible components and markup with saving and refactoring existing funtionality from old enpoint. Close communication with java and AEM developers.<br />
   **Feedback**: [feedback from Team Lead](./img/feedback.png)
   
   **Achievements**: - The platform for storing documentation for the whole community was implemented from scratch.<br />
@@ -58,11 +59,14 @@ I like to learn new things and engage in things  beyond my responsibilities. I g
 * **Front end developer**<br />
   freelance<br />
   2018 - September 2019
-  
-  Full front end part with creating bootstrap markup and interactive elements like courusel according design. 
-  Backend development.
 
-  **Technologies**: JQuery, Bootstrap, Express.js, Node.js, Sails.js
+  [The Living Thing](https://ltblog-prod-ru.herokuapp.com/)<br />
+  Sails.js project, work in a pair with senior NET developer. My part of work is bootstrap markup, pagination, check password on client and server side.<br />
+  **Technologies**: Sails.js, Jquery, Bootstrap
+
+  Qa-dino<br />
+  Full front end part with creating bootstrap markup and interactive elements like carousel according design. Backend development.<br />
+  **Technologies**: Sails.js, Jquery, Bootstrap
 
 * **Child animator**<br />
   studio children celebration "Karavay"<br />
@@ -86,20 +90,24 @@ I like to learn new things and engage in things  beyond my responsibilities. I g
 
 * [Path-walker](https://github.com/yanyan155/path-walker)
   The node.js, react project - basic implementation of Window's File Explorer for Browser. Team Lead was a mentor. <br />
-  Features: Basic back-end store, log-in/logout logic, user roles, ability to create/remove directories and files and move on directories<br /> 
+  Features: single responsibility pattern, Basic back-end store, log-in/logout logic, user roles, ability to create/remove directories and files and move on directories<br /> 
   Tech: Express.js, Webpack, Babel, React, Redux, Eslint, Sockets
-* [The Living Thing](https://ltblog-prod-ru.herokuapp.com/)
-  Sails.js project, work in a pair with senior NET developer. My part of work is bootstrap markup, pagination, check password on client and server side.<br />
-  Tech: Sails.js, Jquery, Bootstrap
-* [Ghost host](https://github.com/yanyan155/resume-projects/tree/ghost-host)
-  Html/css project from [Rolling Scopes course](https://rs.school/js/index.html), which has responsible design, slick slider, html5 tags, using flex.<br />
+  
+* [Ghost host](https://github.com/yanyan155/resume-projects/tree/ghost-host)<br />
+  Html/css project from [Rolling Scopes course](https://rs.school/js/index.html)<br />
+  Features: responsible design, slick slider, html5 tags, using flex.<br />
   Tech: html, css
+  
 * [Recipes](https://github.com/yanyan155/resume-projects/tree/recipes)
-  Node.js project from [CourseHunters](https://coursehunters.net/course/udemy-complete-javascript-course), which has MVC arhitecture, webpack, babel, classes, asyncronous requests.
+  Node.js project from [CourseHunters](https://coursehunters.net/course/udemy-complete-javascript-course)<br />
+  Features: MVC arhitecture, webpack, babel, classes, asyncronous requests.<br />
   Tech: Node.js, Webpack, Babel
-* [Lambda restausant](https://github.com/yanyan155/resume-projects/tree/lambda-restaurant)
-  Html/css project from [Rolling Scopes course](https://rs.school/js/index.html), which has pixel perfect, sticky footer, html5 tags, using flex, control overtext and overbLock adding features.
+  
+* [Lambda restausant](https://github.com/yanyan155/resume-projects/tree/lambda-restaurant)<br />
+  Html/css project from [Rolling Scopes course](https://rs.school/js/index.html)<br />
+  Features: pixel perfect, sticky footer, html5 tags, using flex, control overtext and overbLock adding features.<br />
   Tech: Html, Css
+  
 * [Listboxer](https://docs.google.com/spreadsheets/d/1mbDvuPK-VPiWDAs0mVpDw8te91imFMaE/edit?usp=sharing&ouid=116638711936586478796&rtpof=true&sd=true)
   Basic bug report training
 
