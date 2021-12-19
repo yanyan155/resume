@@ -65,54 +65,53 @@ Strong knowledge of js, html, css.
   **Technologies**: Sails.js, Jquery, Bootstrap
 
   Qa-dino<br />
-  Full front end part with creating bootstrap markup and interactive elements like carousel according design. Backend development.<br />
+  Full front end part with creating bootstrap markup and interactive elements like carousel according to design. Backend development.<br />
   **Technologies**: Sails.js, Jquery, Bootstrap
 
 * **Child animator**<br />
   studio children celebration "Karavay"<br />
   September 2015 - August 2019
   
-  Creating programs and holding events for children and adults
-  
+  Creating programs and holding events for children and adults<br />
   **Achievements**: create and apply a new program for life-size puppets ( Olaf, Teddy Bear, Bear from Masha and the Bear ) which increase my orders amount on 20-30%.
   
-* **Engineer-designer**
-  building company "MAPID"
-  September 2013 - September 2015
-  Desing nodes for water supply and water disposal.
+* **Engineer-designer**<br />
+  building company "MAPID"<br />
+  September 2013 - September 2015<br />
+  Design nodes for water supply and water disposal.
 
-* Student of [Belarusian National Technical University](http://www.bntu.by/)
-  Department: Heat and Gas Supply and Ventilation
-  Degree: bachelor
+* Student of [Belarusian National Technical University](http://www.bntu.by/)<br />
+  Department: Heat and Gas Supply and Ventilation<br />
+  Degree: bachelor<br />
   Attended year: 2008 - 2013
   
 ## Projects
 
 * [Path-walker](https://github.com/yanyan155/path-walker)
   The node.js, react project - basic implementation of Window's File Explorer for Browser. Team Lead was a mentor. <br />
-  Features: single responsibility pattern, Basic back-end store, log-in/logout logic, user roles, ability to create/remove directories and files and move on directories<br /> 
-  Tech: Express.js, Webpack, Babel, React, Redux, Eslint, Sockets
+  **Features**: single responsibility pattern, Basic back-end store, log-in/logout logic, user roles, ability to create/remove directories and files and move on directories<br />
+  **Tech**: Express.js, Webpack, Babel, React, Redux, Eslint, Sockets
   
 * [Ghost host](https://github.com/yanyan155/resume-projects/tree/ghost-host)<br />
   Html/css project from [Rolling Scopes course](https://rs.school/js/index.html)<br />
-  Features: responsible design, slick slider, html5 tags, using flex.<br />
-  Tech: html, css
+  **Features**: responsible design, slick slider, html5 tags, using flex.<br />
+  **Tech**: html, css
   
 * [Recipes](https://github.com/yanyan155/resume-projects/tree/recipes)
   Node.js project from [CourseHunters](https://coursehunters.net/course/udemy-complete-javascript-course)<br />
-  Features: MVC arhitecture, webpack, babel, classes, asyncronous requests.<br />
-  Tech: Node.js, Webpack, Babel
+  **Features**: MVC arhitecture, webpack, babel, classes, asyncronous requests.<br />
+  **Tech**: Node.js, Webpack, Babel
   
 * [Lambda restausant](https://github.com/yanyan155/resume-projects/tree/lambda-restaurant)<br />
   Html/css project from [Rolling Scopes course](https://rs.school/js/index.html)<br />
-  Features: pixel perfect, sticky footer, html5 tags, using flex, control overtext and overbLock adding features.<br />
-  Tech: Html, Css
+  **Features**: pixel perfect, sticky footer, html5 tags, using flex, control overtext and overbLock adding features.<br />
+  **Tech**: Html, Css
   
 * [Listboxer](https://docs.google.com/spreadsheets/d/1mbDvuPK-VPiWDAs0mVpDw8te91imFMaE/edit?usp=sharing&ouid=116638711936586478796&rtpof=true&sd=true)
   Basic bug report training
 
 ### Cources
 * [Rolling Scopes course](https://rs.school/js/index.html)
-* [Coursehunters.](https://coursehunters.net/course/udemy-complete-javascript-course)
+* [Complete javascript course](https://coursehunters.net/course/udemy-complete-javascript-course)
 * [The Critical Rendering Path.](https://www.udacity.com/course/website-performance-optimization--ud884)
 * [Codecademy: HTML and CSS.](https://www.codecademy.com/yanyan155#completed)
