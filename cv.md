@@ -1,4 +1,3 @@
-# Resume for js developer position.
 <style>
   h1 {
     display: none;
@@ -31,35 +30,39 @@
 </table>
 
 ## Summary
-2+ year work in  transcontinental projects with headquarters in UK and USA. Work with colleagues from different regions.
-Like to learn new things and investigate deeper in things even beyond my responsibilities. Supported and taught student from testing courses so as a result she got an offer.
+I have 2+ years of commercial experience working on projects in a transcontinental company with headquarters in UK and USA. I worked with colleagues from different regions. 
+I like to learn new things and engage in things  beyond my responsibilities. I guided and couched several friends, graduated from software testing and js classes to help them get a full-time job offer.
 
 ## Skills
-- HTML5, CSS3, react, node.js, webpack, sails.js, express.js, git.
-- basic accessibility, jest, jasmine
-- English B1
+- HTML5, CSS3.
+- Node.js, Sails.js, Express.js 
+- React
+- Webpack
+- Jest, Jasmine
+- Git
+- English B1, Russian native
 
 ## Previous Employment
 * **Front end developer**<br />
   EPAM Systems<br />
   September 2019 - present time
+
+  I was responsible for the migration of the whole front end part to a different endpoint. 
+  I was also involved in the full development process that includes designing UI solutions, implementing features with constant communication with AEM, backend developers and testers.
+  I Wrote tests in Jest, Jasmine<br />
+  **Feedback**: [feedback from Team Lead](./img/feedback.png)
   
-  Responsible for migration whole front end part to different endpoint. 
-  Was involved in full development process including designing solutions for UI part, implement features with constant communication with AEM, backend developers and testers.
-  Wrote tests in Jest, Jasmine<br />
-  **Feedback**: [feedback](./img/feedback.png)
-  
-  **Achievements**: - Implement platform from scratch to store documentation for whole community.<br />
-  **Technologies**: JQuery, JSTL&JSP, docker, react, node.js, grunt, eslint, Jest, Jasmine
+  **Achievements**: - The platform for storing documentation for the whole community was implemented from scratch.<br />
+  **Technologies**: JQuery, JSTL&JSP, Docker, React, Node.js, Grunt, Eslint, Jest, Jasmine
 
 * **Front end developer**<br />
   freelance<br />
-  2019 - present time
+  2018 - September 2019
   
   Full front end part with creating bootstrap markup and interactive elements like courusel according design. 
   Backend development.
 
-  **Technologies**: JQuery, bootstrap, express.js, node.js, sails.js
+  **Technologies**: JQuery, Bootstrap, Express.js, Node.js, Sails.js
 
 * **Child animator**<br />
   studio children celebration "Karavay"<br />
@@ -73,37 +76,35 @@ Like to learn new things and investigate deeper in things even beyond my respons
   building company "MAPID"
   September 2013 - September 2015
   Desing nodes for water supply and water disposal.
+
+* Student of [Belarusian National Technical University](http://www.bntu.by/)
+  Department: Heat and Gas Supply and Ventilation
+  Degree: bachelor
+  Attended year: 2008 - 2013
   
 ## Projects
 
 * [Path-walker](https://github.com/yanyan155/path-walker)
   The node.js, react project - basic implementation of Window's File Explorer for Browser. Team Lead was a mentor. <br />
   Features: Basic back-end store, log-in/logout logic, user roles, ability to create/remove directories and files and move on directories<br /> 
-  Tech: Express.js, webpack, babel, react, redux, eslint, sockets
+  Tech: Express.js, Webpack, Babel, React, Redux, Eslint, Sockets
 * [The Living Thing](https://ltblog-prod-ru.herokuapp.com/)
   Sails.js project, work in a pair with senior NET developer. My part of work is bootstrap markup, pagination, check password on client and server side.<br />
-  Tech: Sails.js, jquery, bootstrap
+  Tech: Sails.js, Jquery, Bootstrap
 * [Ghost host](https://github.com/yanyan155/resume-projects/tree/ghost-host)
   Html/css project from [Rolling Scopes course](https://rs.school/js/index.html), which has responsible design, slick slider, html5 tags, using flex.<br />
   Tech: html, css
 * [Recipes](https://github.com/yanyan155/resume-projects/tree/recipes)
   Node.js project from [CourseHunters](https://coursehunters.net/course/udemy-complete-javascript-course), which has MVC arhitecture, webpack, babel, classes, asyncronous requests.
-  Tech: node.js, webpack, babel
+  Tech: Node.js, Webpack, Babel
 * [Lambda restausant](https://github.com/yanyan155/resume-projects/tree/lambda-restaurant)
   Html/css project from [Rolling Scopes course](https://rs.school/js/index.html), which has pixel perfect, sticky footer, html5 tags, using flex, control overtext and overbLock adding features.
-  Tech: html, css
+  Tech: Html, Css
 * [Listboxer](https://docs.google.com/spreadsheets/d/1mbDvuPK-VPiWDAs0mVpDw8te91imFMaE/edit?usp=sharing&ouid=116638711936586478796&rtpof=true&sd=true)
   Basic bug report training
 
 ### Cources
-* [Rolling Scopes course](https://rs.school/js/index.html) - add diploma pics
+* [Rolling Scopes course](https://rs.school/js/index.html)
 * [Coursehunters.](https://coursehunters.net/course/udemy-complete-javascript-course)
 * [The Critical Rendering Path.](https://www.udacity.com/course/website-performance-optimization--ud884)
 * [Codecademy: HTML and CSS.](https://www.codecademy.com/yanyan155#completed)
-
-## Educations
-### University
-* [Belarusian National Technical University](http://www.bntu.by/)
-* Department: Heat and Gas Supply and Ventilation
-* Attended year: 2008 - 2013
-* Degree: bachelor
